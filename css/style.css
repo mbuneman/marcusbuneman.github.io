@@ -35,8 +35,7 @@ h2{
     /* pour redimensionner l'image afin de s'adapter à la taille de l'élément qui la contient */
     padding-right: 90px;
     padding-left: 140px;
-    margin: 10px 10px 10px 10px;   
-    width: 50%; 
+    margin: 10px 10px 10px 10px;    
     height: 300px;
     border-radius: 20px; 
     background-repeat: no-repeat;   
