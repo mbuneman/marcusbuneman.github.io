@@ -38,6 +38,6 @@ h2{
     margin: 10px 10px 10px 10px;   
     width: 50%; 
     height: 300px;
-    border-radius: 20px 20px 20px 20px; 
+    border-radius: 20px; 
     background-repeat: no-repeat;   
 }
